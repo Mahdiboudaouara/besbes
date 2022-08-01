@@ -1,0 +1,4 @@
+npm i mysql express inside server
+create react app inside client  
+in client install axios
+in server install cors
